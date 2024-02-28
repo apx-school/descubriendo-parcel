@@ -1,13 +1,13 @@
 # Estructura del Proyecto
 
 - package.json: Un archivo de configuración para el proyecto que define scripts de construcción, dependencias y metadatos del proyecto.
-src/: Directorio que contiene todos los archivos fuente.
+  src/: Directorio que contiene todos los archivos fuente.
 - index.html: El archivo HTML principal.
 - index.css: Hoja de estilos CSS para la aplicación.
 - index.ts: Archivo TypeScript principal que contiene la lógica de la aplicación.
 - apx.png: Una imagen usada en la aplicación.
 
-# Scripts 
+# Scripts
 
 En el archivo package.json, se definen varios scripts para facilitar el desarrollo y la construcción del proyecto:
 
@@ -21,3 +21,5 @@ En el archivo package.json, se definen varios scripts para facilitar el desarrol
 - Clona el repositorio a tu máquina local.
 - Ejecuta `npm install` para instalar las dependencias, incluyendo Parcel.
 - Utiliza `npm run dev` para iniciar el servidor de desarrollo y abrir el proyecto en tu navegador.
+
+Ver más en [la docu de Parcel](https://parceljs.org/features/cli/)
