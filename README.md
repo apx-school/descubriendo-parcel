@@ -18,7 +18,6 @@ En el archivo package.json, se definen varios scripts para facilitar el desarrol
 
 # Dev
 
-Para comenzar a trabajar en el proyecto:
-Clona el repositorio a tu máquina local.
-Ejecuta npm install para instalar las dependencias, incluyendo Parcel.
-Utiliza `npm run dev` para iniciar el servidor de desarrollo y abrir el proyecto en tu navegador.
+- Clona el repositorio a tu máquina local.
+- Ejecuta `npm install` para instalar las dependencias, incluyendo Parcel.
+- Utiliza `npm run dev` para iniciar el servidor de desarrollo y abrir el proyecto en tu navegador.
